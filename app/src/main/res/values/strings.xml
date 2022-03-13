@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sawaari Malik</string>
+    <string name="plus_nine_one">+91</string>
+    <string name="enter_the_otp_send_to">Enter the OTP Send to</string>
+    <string name="_91">+91-*******</string>
+    <string name="today_s_earning">Today\'s Earning-</string>
+    <string name="referral_code">Referral Code-</string>
+    <string name="my_incharges">My Incharges</string>
+    <string name="numbers_of_refreals">Numbers of Refreals-</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

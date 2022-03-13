@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/drawable/boader.xml" value="0.21666666666666667" />
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.2361111111111111" />
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/layout/activity_otp.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/SawaariMalik/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
